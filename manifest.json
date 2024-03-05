@@ -1,0 +1,17 @@
+{
+    "scopedRegistries": [{
+      "name": "Character Controller",
+      "url": "https://my.internal.registry.com",
+      "scopes": [
+        "com.2322034"
+      ]
+    }],
+    "dependencies": {
+      "com.unity.inputsystem": "1.7.0",
+      "com.unity.cinemachine": "2.9.7",
+      "com.unity.ai.navigation": "1.1.5",
+      "com.unity.my-git-package": "https://github.com/Sacralin/CharacterControllerPackage.git"
+    },
+    "enableLockFile": true,
+    "resolutionStrategy": "highestMinor"
+  }
